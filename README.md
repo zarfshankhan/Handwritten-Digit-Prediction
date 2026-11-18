@@ -79,3 +79,4 @@ https://github.com/zarfshankhan/Handwritten-Digit-Prediction.git
 
 ## App View
 
+https://zarfshankhan-handwritten-digit-prediction-app-rcp1z4.streamlit.app/
